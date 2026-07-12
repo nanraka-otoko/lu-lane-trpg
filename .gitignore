@@ -1,0 +1,6 @@
+.claude/settings.local.json
+.claude/
+CLAUDE.md
+reviews/
+__pycache__/
+*.py[cod]

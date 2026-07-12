@@ -1,0 +1,24 @@
+1F
+  R
+  s
+R-RhR
+  s
+  R-R     R-R
+  | |     | s
+R-R R-R-R-R
+s     |   h
+  R   R-R-R-R
+  e   s
+  R       R
+  |       | s
+  R-R-R-R-R-R
+s |       |
+R-RhR   RhR-R
+|   | s |
+R-R-R-R-R
+  |   |
+  R-  R  -R
+      |   |
+    R-R   R
+          s
+          R

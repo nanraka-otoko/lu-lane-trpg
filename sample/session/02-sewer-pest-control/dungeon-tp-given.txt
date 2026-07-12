@@ -1,0 +1,12 @@
+1F
+    R
+    s
+    R
+    |
+  R-R-R-R     R
+  |     |     |
+R-R     R R-R-R
+|       | |
+R-R   R-R-R
+  |   |
+  R-R-R
