@@ -144,4 +144,5 @@ PCが出来上がったら、冒険の舞台へと旅立ちましょう。
 ---
 
 Copyright (C) 2026 Nanraka.
+"ルゥレーン" and "ルゥレーンTRPG" are trademarks of Nanraka.
 Licensed under the terms above (Modified MIT-0 (Non-Impersonation Clause)).
