@@ -14,7 +14,7 @@
 ## キャラクターシート
 
 - PLとGMは、プレイヤーキャラクターを「キャラクターシート」の形式で作成し、管理する
-- キャラクターシートのテンプレートは [../10-appendix/character-sheet.md](../10-appendix/character-sheet.md) を参照すること
+- キャラクターシートのテンプレートは [../10-appendix/01-character-sheet.md](../10-appendix/01-character-sheet.md) を参照すること
 
 > フォーマットは自由:
 > - 提示したキャラクターシートは、あくまでも一例です

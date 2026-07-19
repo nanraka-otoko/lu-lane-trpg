@@ -105,10 +105,10 @@ PCが出来上がったら、冒険の舞台へと旅立ちましょう。
 ## 6. 付録
 
 - キャラクターシート:
-    - [system/10-appendix/character-sheet.md](./system/10-appendix/character-sheet.md) を利用してください
+    - [system/10-appendix/01-character-sheet.md](./system/10-appendix/01-character-sheet.md) を利用してください
     - ファイルを適宜コピーして使用してください
 - ロールの確率と期待値:
-    - [system/10-appendix/roll-probability-table.md](./system/10-appendix/roll-probability-table.md) を参照してください
+    - [system/10-appendix/02-roll-probability-table.md](./system/10-appendix/02-roll-probability-table.md) を参照してください
 - ルゥレーンの世界観や歴史:
     - [preference/01-world.md](./preference/01-world.md) を参照してください
 - ルゥレーンの舞台や地理:
