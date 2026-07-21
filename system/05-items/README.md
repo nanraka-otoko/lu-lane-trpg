@@ -226,7 +226,7 @@
 ### [拳・爪 - 11-knuckle](./11-knuckle.md)
 ### [刀剣 - 12-sword](./12-sword.md)
 ### [斧 - 13-axe](./13-axe.md)
-### [槌 - 14-hummer](./14-hummer.md)
+### [槌 - 14-hammer](./14-hammer.md)
 ### [槍 - 15-spear](./15-spear.md)
 ### [斧槍 - 16-poleaxe](./16-poleaxe.md)
 ### [鞭 - 17-whip](./17-whip.md)
@@ -248,7 +248,7 @@
 ## 盾・防具のデータ
 
 ### [盾 - 31-shield](./31-shield.md)
-### [防具 - 32-armer](./32-armer.md)
+### [防具 - 32-armor](./32-armor.md)
 
 ---
 
